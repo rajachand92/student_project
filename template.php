@@ -8,6 +8,7 @@
 ?>
 
 <body>
+	<h3>bascic template flow</h3>
 
 <?php
 
